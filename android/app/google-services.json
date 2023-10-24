@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "983532885705",
+    "project_id": "pemrograman-mobile-361ca",
+    "storage_bucket": "pemrograman-mobile-361ca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:983532885705:android:4b4e5dae393eac92731f18",
+        "android_client_info": {
+          "package_name": "com.jobsheet8"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "983532885705-1e2qf9140jfst588lmu34ci4dtu0maju.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.jobsheet8",
+            "certificate_hash": "e1046ade4253a921b08c68c9ee1e796e9f004aec"
+          }
+        },
+        {
+          "client_id": "983532885705-utm3m0975fnqbblb3jlejfs083qpc2op.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3uPAYx_nP-9JyfogMmI0kr2HykYkgXeg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "983532885705-utm3m0975fnqbblb3jlejfs083qpc2op.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
